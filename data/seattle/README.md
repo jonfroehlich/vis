@@ -1,0 +1,1 @@
+This data was downloaded from https://data-seattlecitygis.opendata.arcgis.com/datasets/city-clerk-neighborhoods/explore?location=47.606393%2C-122.308146%2C11.39
