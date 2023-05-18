@@ -6,3 +6,5 @@ The following files were downloaded from https://github.com/seattleio/seattle-bo
 * city-limits-2015.geojson
 * neighborhoods-2015.geojson
 * zip-codes-2015.geojson
+
+SeattleHousePricesByZipCode2017.csv was compiled from https://www.propertyshark.com/Real-Estate-Reports/2017/10/04/expensive-zip-codes-washington-state-medina-homes-8x-pricier-u-s-median/
